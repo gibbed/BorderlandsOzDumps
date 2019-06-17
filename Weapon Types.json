@@ -314,6 +314,18 @@
       "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
     ]
   },
+  "GD_Hyperion_TurretShared.Weapons.HyperionTurret_WeaponType": {
+    "type": "SniperRifle",
+    "stock_parts": [
+      "GD_TurretShared.Stock.Stock_None"
+    ]
+  },
+  "GD_JetFighterShared.Weapon.WeaponType_JetFighterGun": {
+    "type": "Laser",
+    "stock_parts": [
+      "GD_TurretShared.Stock.Stock_None"
+    ]
+  },
   "GD_Petunia_Weapons.Launchers.WT_Vladof_Launcher_Menace": {
     "type": "RocketLauncher",
     "titles": [
@@ -544,6 +556,12 @@
       "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
       "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
       "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
+    ]
+  },
+  "GD_Weap_BotGun.A_Weapon.WeaponType_BotGun_Weapon": {
+    "type": "SMG",
+    "stock_parts": [
+      "GD_TurretShared.Stock.Stock_None"
     ]
   },
   "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher": {
