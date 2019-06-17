@@ -13,6 +13,13 @@
     "is_plot_critical": false,
     "can_be_failed": false
   },
+  "GD_Co_CH07RnD.M_Co_CH07RnD": {
+    "number": -1,
+    "name": "R&D Facility",
+    "description": "Identify the source of the  signal",
+    "is_plot_critical": true,
+    "can_be_failed": false
+  },
   "GD_Co_Chapter01.M_CH01a_MoonShot": {
     "number": 0,
     "name": "Welcome to Helios",

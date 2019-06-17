@@ -8648,8 +8648,7 @@
           "type": "WillowGame.ItemPartDefinition",
           "sublibraries": [
             {
-              "description": "GD_Ma_ClassMods.PackageAssetSublibrary_1",
-              "assets": []
+              "description": "GD_Ma_ClassMods.PackageAssetSublibrary_1"
             },
             {
               "description": "GD_Ma_GrenadeMods.PackageAssetSublibrary_2",
@@ -8703,8 +8702,7 @@
               ]
             },
             {
-              "description": "GD_Ma_ClassMods.PackageAssetSublibrary_0",
-              "assets": []
+              "description": "GD_Ma_ClassMods.PackageAssetSublibrary_0"
             },
             {
               "description": "GD_Ma_GrenadeMods.PackageAssetSublibrary_0",

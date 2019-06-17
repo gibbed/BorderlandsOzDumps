@@ -853,6 +853,46 @@
     "has_full_name": true,
     "type": "UsableItem"
   },
+  "GD_Ammodrops.Shop.AmmoShop_Assault_Rifle_Bullets": {
+    "name": "Assault Rifle Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Grenade_Protean": {
+    "name": "Grenade",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Laser_Cells": {
+    "name": "Laser Cells",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Patrol_SMG_Clip": {
+    "name": "SMG Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Repeater_Pistol_Clip": {
+    "name": "Pistol Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Rocket_Launcher": {
+    "name": "Launcher Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Shotgun_Shells": {
+    "name": "Shotgun Shells",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
+  "GD_Ammodrops.Shop.AmmoShop_Sniper_Rifle_Cartridges": {
+    "name": "Sniper Rifle Ammo",
+    "has_full_name": true,
+    "type": "UsableItem"
+  },
   "GD_Baroness_Items_crocus.Baroness.Head_Baron002": {
     "name": "Mad Couture",
     "has_full_name": true,
@@ -1392,6 +1432,11 @@
     "name": "Turtle Up!",
     "has_full_name": true,
     "type": "UsableItem"
+  },
+  "GD_Co_Side_RocketSurgeryData.ItemDefs.ID_SkavBrain": {
+    "name": "Human Brain",
+    "has_full_name": true,
+    "type": "MissionItem"
   },
   "GD_Cork_ClassMods.A_Item_Lawbringer.ClassMod_Lawbringer_BountyHunter": {
     "type": "ClassMod",
@@ -12997,6 +13042,13 @@
       "GD_Shields.Material.Material2_Uncommon_NoSpecial",
       "GD_Shields.Material.Material3_Rare_NoSpecial",
       "GD_Shields.Material.Material4_VeryRare_NoSpecial"
+    ]
+  },
+  "GD_Shields.A_Item_BaseEnemy.Shield_Enemy_Standard": {
+    "name": "Orb Shield",
+    "type": "Shield",
+    "titles": [
+      "GD_Shields.Titles.Title_Shield"
     ]
   },
   "GD_Shields.BuffDrinks.BuffDrink_OxygenInstant_MoxxisSlammer": {

@@ -958,10 +958,10 @@
     "type": "Body"
   },
   "GD_Cork_Weap_Shotgun.Stock.SG_Stock_Jakobs_Boomacorn": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Cork_Weap_Shotgun.Stock.SG_Stock_Jakobs_TooScoops": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Cork_Weap_SMG.Barrel.SMG_Barrel_Bandit_MareksMouth": {
     "titles": [
@@ -1664,6 +1664,9 @@
       "GD_Petunia_Weapons.Name.Title.Title__Unique_Plunkett"
     ],
     "type": "Barrel"
+  },
+  "GD_TurretShared.Stock.Stock_None": {
+    "type": "Invalid"
   },
   "GD_Weap_Accessories.Moonstone.Moonstone_Attachment_Boominator": {
     "type": "Accessory2"
@@ -3520,19 +3523,19 @@
     "type": "Sight"
   },
   "GD_Weap_Shotgun.Stock.SG_Stock_Bandit": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_Shotgun.Stock.SG_Stock_Hyperion": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_Shotgun.Stock.SG_Stock_Jakobs": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_Shotgun.Stock.SG_Stock_Tediore": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_Shotgun.Stock.SG_Stock_Torgue": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_SMG.Accessory.SMG_Accessory_Bayonet_1": {
     "prefixes": [
@@ -4372,18 +4375,18 @@
     "type": "Sight"
   },
   "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan": {
-    "type": "11"
+    "type": "Invalid"
   },
   "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof": {
-    "type": "11"
+    "type": "Invalid"
   }
 }

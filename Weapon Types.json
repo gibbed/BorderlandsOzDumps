@@ -269,6 +269,51 @@
       "GD_Weap_AssaultRifle.Name.Title_Scav.Title__MashineGun"
     ]
   },
+  "GD_DahlPowersuit_Knuckle.A_Weapons.WT_Dahl_Knuckle_Laser": {
+    "type": "Laser",
+    "titles": [
+      "GD_Cork_Weap_Lasers.Name.Title_Dahl.Title__Laser"
+    ],
+    "prefixes": [
+      "GD_Cork_Weap_Lasers.Name.Prefix_Dahl.Prefix__Default"
+    ],
+    "body_parts": [
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
+      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
+    ],
+    "grip_parts": [
+      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
+      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
+      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
+      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
+    ],
+    "barrel_parts": [
+      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
+      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
+      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
+      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
+    ],
+    "stock_parts": [
+      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
+      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
+      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
+      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
+    ]
+  },
   "GD_Petunia_Weapons.Launchers.WT_Vladof_Launcher_Menace": {
     "type": "RocketLauncher",
     "titles": [
