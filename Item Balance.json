@@ -6031,12 +6031,6 @@
       ]
     }
   },
-  "GD_Hyperion_TurretShared.Weapons.HyperionTurret_ItemGrade": {
-    "type": "GD_Hyperion_TurretShared.Weapons.HyperionTurret_WeaponType",
-    "manufacturers": [
-      "GD_Manufacturers.Manufacturers.Stock"
-    ]
-  },
   "GD_ItemGrades.Ammo.ItemGrade_Ammo_CombatRifle": {
     "type": "GD_Ammodrops.Pickups.AmmoDrop_Assault_Rifle_Bullets",
     "manufacturers": [
@@ -7271,18 +7265,6 @@
   },
   "GD_ItemGrades.StorageDeckUpgrades.ItemGrade_SDU_WeaponEquipSlot": {
     "type": "GD_StorageDeckUpgrade.A_Item.INV_SDU_WeaponEquipSlot",
-    "manufacturers": [
-      "GD_Manufacturers.Manufacturers.Stock"
-    ]
-  },
-  "GD_ItemGrades.Weapons.ItemGrade_Weapon_BotGun": {
-    "type": "GD_Weap_BotGun.A_Weapon.WeaponType_BotGun_Weapon",
-    "manufacturers": [
-      "GD_Manufacturers.Manufacturers.Stock"
-    ]
-  },
-  "GD_JetFighterShared.Weapon.ItemGrade_JetFighterGun": {
-    "type": "GD_JetFighterShared.Weapon.WeaponType_JetFighterGun",
     "manufacturers": [
       "GD_Manufacturers.Manufacturers.Stock"
     ]

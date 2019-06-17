@@ -2430,6 +2430,24 @@
       ]
     }
   },
+  "GD_Hyperion_TurretShared.Weapons.HyperionTurret_ItemGrade": {
+    "type": "GD_Hyperion_TurretShared.Weapons.HyperionTurret_WeaponType",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_ItemGrades.Weapons.ItemGrade_Weapon_BotGun": {
+    "type": "GD_Weap_BotGun.A_Weapon.WeaponType_BotGun_Weapon",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
+  "GD_JetFighterShared.Weapon.ItemGrade_JetFighterGun": {
+    "type": "GD_JetFighterShared.Weapon.WeaponType_JetFighterGun",
+    "manufacturers": [
+      "GD_Manufacturers.Manufacturers.Stock"
+    ]
+  },
   "GD_Ma_Weapons.A_Weapons.AR_Bandit_6_Glitch": {
     "base": "GD_Weap_AssaultRifle.A_Weapons.AR_Bandit_3_Rare",
     "parts": {
