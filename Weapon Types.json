@@ -7,63 +7,13 @@
     "prefixes": [
       "GD_Cork_Weap_Lasers.Name.Prefix_Dahl.Prefix__Default"
     ],
-    "body_parts": [
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
-    ],
-    "grip_parts": [
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
-    ],
-    "sight_parts": [
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Dahl",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Hyperion",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
-    ],
-    "elemental_parts": [
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Corrosive",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Fire",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Ice",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Shock"
-    ],
-    "material_parts": [
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_1",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_2",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_3",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_4",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_5_Legendary"
-    ]
+    "body_parts": "GD_Cork_Weap_Lasers.Body.Body_PartList",
+    "grip_parts": "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList",
+    "barrel_parts": "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList",
+    "sight_parts": "GD_Cork_Weap_Lasers.Sight.Sight_PartList",
+    "stock_parts": "GD_Cork_Weap_Lasers.Stock.Stock_PartList",
+    "elemental_parts": "GD_Cork_Weap_Lasers.elemental.Elemental_PartList",
+    "material_parts": "GD_Cork_Weap_Lasers.ManufacturerMaterials.DahlMaterials_PartList"
   },
   "GD_Cork_Weap_Lasers.A_Weapons.WT_Hyperion_Laser": {
     "type": "Laser",
@@ -73,63 +23,13 @@
     "prefixes": [
       "GD_Cork_Weap_Lasers.Name.Prefix_Hyperion.Prefix__Default"
     ],
-    "body_parts": [
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
-    ],
-    "grip_parts": [
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
-    ],
-    "sight_parts": [
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Dahl",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Hyperion",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
-    ],
-    "elemental_parts": [
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Corrosive",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Fire",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Ice",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Shock"
-    ],
-    "material_parts": [
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_1",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_2",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_3",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_4",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_5_Legendary"
-    ]
+    "body_parts": "GD_Cork_Weap_Lasers.Body.Body_PartList",
+    "grip_parts": "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList",
+    "barrel_parts": "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList",
+    "sight_parts": "GD_Cork_Weap_Lasers.Sight.Sight_PartList",
+    "stock_parts": "GD_Cork_Weap_Lasers.Stock.Stock_PartList",
+    "elemental_parts": "GD_Cork_Weap_Lasers.elemental.Elemental_PartList",
+    "material_parts": "GD_Cork_Weap_Lasers.ManufacturerMaterials.HyperionMaterials_PartList"
   },
   "GD_Cork_Weap_Lasers.A_Weapons.WT_Maliwan_Laser": {
     "type": "Laser",
@@ -139,63 +39,13 @@
     "prefixes": [
       "GD_Cork_Weap_Lasers.Name.Prefix_Maliwan.Prefix__Default"
     ],
-    "body_parts": [
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
-    ],
-    "grip_parts": [
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
-    ],
-    "sight_parts": [
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Dahl",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Hyperion",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
-    ],
-    "elemental_parts": [
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Corrosive",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Fire",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Ice",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Shock"
-    ],
-    "material_parts": [
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_1",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_2",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_3",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_4",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_5_Legendary"
-    ]
+    "body_parts": "GD_Cork_Weap_Lasers.Body.Body_PartList",
+    "grip_parts": "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList",
+    "barrel_parts": "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList",
+    "sight_parts": "GD_Cork_Weap_Lasers.Sight.Sight_PartList",
+    "stock_parts": "GD_Cork_Weap_Lasers.Stock.Stock_PartList",
+    "elemental_parts": "GD_Cork_Weap_Lasers.elemental.Elemental_PartList",
+    "material_parts": "GD_Cork_Weap_Lasers.ManufacturerMaterials.MaliwanMaterials_PartList"
   },
   "GD_Cork_Weap_Lasers.A_Weapons.WT_Tediore_Laser": {
     "type": "Laser",
@@ -205,63 +55,13 @@
     "prefixes": [
       "GD_Cork_Weap_Lasers.Name.Prefix_Tediore.Prefix__Default"
     ],
-    "body_parts": [
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
-    ],
-    "grip_parts": [
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
-    ],
-    "sight_parts": [
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Dahl",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Hyperion",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None_Maliwan",
-      "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
-    ],
-    "elemental_parts": [
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Corrosive",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Fire",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Ice",
-      "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Shock"
-    ],
-    "material_parts": [
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_1",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_2",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_3",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_4",
-      "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_5_Legendary"
-    ]
+    "body_parts": "GD_Cork_Weap_Lasers.Body.Body_PartList",
+    "grip_parts": "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList",
+    "barrel_parts": "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList",
+    "sight_parts": "GD_Cork_Weap_Lasers.Sight.Sight_PartList",
+    "stock_parts": "GD_Cork_Weap_Lasers.Stock.Stock_PartList",
+    "elemental_parts": "GD_Cork_Weap_Lasers.elemental.Elemental_PartList",
+    "material_parts": "GD_Cork_Weap_Lasers.ManufacturerMaterials.TedioreMaterials_PartList"
   },
   "GD_Cypressure_Weapons.A_Weapons_Unique.WT_Bandit_AssaultRifle_BossNova": {
     "type": "AssaultRifle",
@@ -277,54 +77,18 @@
     "prefixes": [
       "GD_Cork_Weap_Lasers.Name.Prefix_Dahl.Prefix__Default"
     ],
-    "body_parts": [
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
-      "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
-    ],
-    "grip_parts": [
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
-      "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
-      "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
-      "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
-    ]
+    "body_parts": "GD_Cork_Weap_Lasers.Body.Body_PartList",
+    "grip_parts": "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList",
+    "barrel_parts": "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Cork_Weap_Lasers.Stock.Stock_PartList"
   },
   "GD_Hyperion_TurretShared.Weapons.HyperionTurret_WeaponType": {
     "type": "SniperRifle",
-    "stock_parts": [
-      "GD_TurretShared.Stock.Stock_None"
-    ]
+    "stock_parts": "GD_TurretShared.Stock._Stock_PartList"
   },
   "GD_JetFighterShared.Weapon.WeaponType_JetFighterGun": {
     "type": "Laser",
-    "stock_parts": [
-      "GD_TurretShared.Stock.Stock_None"
-    ]
+    "stock_parts": "GD_TurretShared.Stock._Stock_PartList"
   },
   "GD_Petunia_Weapons.Launchers.WT_Vladof_Launcher_Menace": {
     "type": "RocketLauncher",
@@ -340,20 +104,8 @@
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Tediore.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Petunia_Weapons.SMGs.WT_Tediore_SMG_Boxxy": {
     "type": "SMG",
@@ -363,42 +115,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Tediore.Prefix__Disposable"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_AssaultRifle.A_Weapons.WT_Bandit_AssaultRifle": {
     "type": "AssaultRifle",
@@ -414,35 +134,10 @@
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix__Battle"
     ],
-    "body_parts": [
-      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_AssaultRifle.Body.Body_PartList",
+    "grip_parts": "GD_Weap_AssaultRifle.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_AssaultRifle.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_AssaultRifle.Stock.Stock_PartList"
   },
   "GD_Weap_AssaultRifle.A_Weapons.WT_Jakobs_AssaultRifle": {
     "type": "AssaultRifle",
@@ -452,35 +147,10 @@
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix__SemiAuto"
     ],
-    "body_parts": [
-      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_AssaultRifle.Body.Body_PartList",
+    "grip_parts": "GD_Weap_AssaultRifle.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_AssaultRifle.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_AssaultRifle.Stock.Stock_PartList"
   },
   "GD_Weap_AssaultRifle.A_Weapons.WT_Torgue_AssaultRifle": {
     "type": "AssaultRifle",
@@ -490,35 +160,10 @@
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix__Gyrojet"
     ],
-    "body_parts": [
-      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_AssaultRifle.Body.Body_PartList",
+    "grip_parts": "GD_Weap_AssaultRifle.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_AssaultRifle.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_AssaultRifle.Stock.Stock_PartList"
   },
   "GD_Weap_AssaultRifle.A_Weapons.WT_Vladof_AssaultRifle": {
     "type": "AssaultRifle",
@@ -528,41 +173,14 @@
     "prefixes": [
       "GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Assault"
     ],
-    "body_parts": [
-      "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
-      "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
-      "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
-      "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
-      "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_AssaultRifle.Body.Body_PartList",
+    "grip_parts": "GD_Weap_AssaultRifle.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_AssaultRifle.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_AssaultRifle.Stock.Stock_PartList"
   },
   "GD_Weap_BotGun.A_Weapon.WeaponType_BotGun_Weapon": {
     "type": "SMG",
-    "stock_parts": [
-      "GD_TurretShared.Stock.Stock_None"
-    ]
+    "stock_parts": "GD_TurretShared.Stock._Stock_PartList"
   },
   "GD_Weap_Launchers.A_Weapons.WT_Bandit_Launcher": {
     "type": "RocketLauncher",
@@ -668,100 +286,40 @@
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Bandit.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Weap_Shotgun.A_Weapons.WT_Hyperion_Shotgun": {
     "type": "Shotgun",
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Hyperion.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Weap_Shotgun.A_Weapons.WT_Jakobs_Shotgun": {
     "type": "Shotgun",
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Jakobs.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Weap_Shotgun.A_Weapons.WT_Tediore_Shotgun": {
     "type": "Shotgun",
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Tediore.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Weap_Shotgun.A_Weapons.WT_Torgue_Shotgun": {
     "type": "Shotgun",
     "titles": [
       "GD_Weap_Shotgun.Name.Title_Torgue.Title__Shotgun"
     ],
-    "body_parts": [
-      "GD_Weap_Shotgun.Body.SG_Body_Bandit",
-      "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
-      "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
-      "GD_Weap_Shotgun.Body.SG_Body_Tediore",
-      "GD_Weap_Shotgun.Body.SG_Body_Torgue"
-    ],
-    "sight_parts": [
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
-      "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
-    ]
+    "body_parts": "GD_Weap_Shotgun.Body.Body_PartList",
+    "sight_parts": "GD_Weap_Shotgun.Barrel.Barrel_PartList"
   },
   "GD_Weap_SMG.A_Weapons.WT_SMG_Bandit": {
     "type": "SMG",
@@ -771,42 +329,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Bandit.Prefix__JuryRigged"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_SMG.A_Weapons.WT_SMG_Dahl": {
     "type": "SMG",
@@ -816,42 +342,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Dahl.Prefix__Burst"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_SMG.A_Weapons.WT_SMG_Hyperion": {
     "type": "SMG",
@@ -861,42 +355,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Hyperion.Prefix__Stabilizing"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_SMG.A_Weapons.WT_SMG_Maliwan": {
     "type": "SMG",
@@ -906,42 +368,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Maliwan.Prefix__Technetronic"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_SMG.A_Weapons.WT_SMG_Tediore": {
     "type": "SMG",
@@ -951,42 +381,10 @@
     "prefixes": [
       "GD_Weap_SMG.Name.Prefix_Tediore.Prefix__Disposable"
     ],
-    "body_parts": [
-      "GD_Weap_SMG.Body.SMG_Body_Bandit",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
-      "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
-    ],
-    "grip_parts": [
-      "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
-      "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
-      "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
-      "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
-      "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
-      "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
-    ],
-    "stock_parts": [
-      "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
-      "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
-      "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
-      "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
-      "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
-    ]
+    "body_parts": "GD_Weap_SMG.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SMG.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SMG.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SMG.Stock.Stock_PartList"
   },
   "GD_Weap_SniperRifles.A_Weapons.WeaponType_Dahl_Sniper": {
     "type": "SniperRifle",
@@ -996,179 +394,49 @@
     "prefixes": [
       "GD_Weap_SniperRifles.Name.Prefix_Dahl.Prefix__BurstFire"
     ],
-    "body_parts": [
-      "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
-      "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
-      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
-      "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_SniperRifles.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SniperRifles.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SniperRifles.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SniperRifles.Stock.Stock_PartList"
   },
   "GD_Weap_SniperRifles.A_Weapons.WeaponType_Hyperion_Sniper": {
     "type": "SniperRifle",
     "titles": [
       "GD_Weap_SniperRifles.Name.Title.Title_SniperRifle"
     ],
-    "body_parts": [
-      "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
-      "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
-      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
-      "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_SniperRifles.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SniperRifles.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SniperRifles.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SniperRifles.Stock.Stock_PartList"
   },
   "GD_Weap_SniperRifles.A_Weapons.WeaponType_Jakobs_Sniper": {
     "type": "SniperRifle",
     "titles": [
       "GD_Weap_SniperRifles.Name.Title_Jakobs.Title__SniperRifle"
     ],
-    "body_parts": [
-      "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
-      "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
-      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
-      "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_SniperRifles.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SniperRifles.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SniperRifles.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SniperRifles.Stock.Stock_PartList"
   },
   "GD_Weap_SniperRifles.A_Weapons.WeaponType_Maliwan_Sniper": {
     "type": "SniperRifle",
     "titles": [
       "GD_Weap_SniperRifles.Name.Title_Maliwan.Title__SniperRifle"
     ],
-    "body_parts": [
-      "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
-      "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
-      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
-      "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_SniperRifles.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SniperRifles.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SniperRifles.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SniperRifles.Stock.Stock_PartList"
   },
   "GD_Weap_SniperRifles.A_Weapons.WeaponType_Vladof_Sniper": {
     "type": "SniperRifle",
     "titles": [
       "GD_Weap_SniperRifles.Name.Title_Vladof.Title__SniperRifle"
     ],
-    "body_parts": [
-      "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
-      "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
-      "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
-      "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
-      "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
-    ],
-    "grip_parts": [
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
-      "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
-    ],
-    "barrel_parts": [
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
-      "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
-    ],
-    "stock_parts": [
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
-      "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
-    ]
+    "body_parts": "GD_Weap_SniperRifles.Body.Body_PartList",
+    "grip_parts": "GD_Weap_SniperRifles.Grip.Grip_PartList",
+    "barrel_parts": "GD_Weap_SniperRifles.Barrel.Barrel_PartList",
+    "stock_parts": "GD_Weap_SniperRifles.Stock.Stock_PartList"
   }
 }

@@ -1,0 +1,192 @@
+﻿{
+  "GD_Cork_Weap_Lasers.Barrel.Barrel_PartList": [
+    "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Dahl",
+    "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Hyperion",
+    "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Maliwan",
+    "GD_Cork_Weap_Lasers.Barrel.Laser_Barrel_Tediore"
+  ],
+  "GD_Cork_Weap_Lasers.Body.Body_PartList": [
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_2",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_3",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Dahl_4",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_2",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_3",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Hyperion_4",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_2",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_3",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Maliwan_4",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_2",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_3",
+    "GD_Cork_Weap_Lasers.Body.Laser_Body_Tediore_4"
+  ],
+  "GD_Cork_Weap_Lasers.elemental.Elemental_PartList": [
+    "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Corrosive",
+    "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Fire",
+    "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Ice",
+    "GD_Cork_Weap_Lasers.elemental.Laser_Elemental_Shock"
+  ],
+  "GD_Cork_Weap_Lasers.FrontGrip.FrontGrip_PartList": [
+    "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Dahl",
+    "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Hyperion",
+    "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Maliwan",
+    "GD_Cork_Weap_Lasers.FrontGrip.Laser_FrontGrip_Tediore"
+  ],
+  "GD_Cork_Weap_Lasers.ManufacturerMaterials.DahlMaterials_PartList": [
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_1",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_2",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_3",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_4",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Dahl_5_Legendary"
+  ],
+  "GD_Cork_Weap_Lasers.ManufacturerMaterials.HyperionMaterials_PartList": [
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_1",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_2",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_3",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_4",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Hyperion_5_Legendary"
+  ],
+  "GD_Cork_Weap_Lasers.ManufacturerMaterials.MaliwanMaterials_PartList": [
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_1",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_2",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_3",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_4",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Maliwan_5_Legendary"
+  ],
+  "GD_Cork_Weap_Lasers.ManufacturerMaterials.TedioreMaterials_PartList": [
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_1",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_2",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_3",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_4",
+    "GD_Cork_Weap_Lasers.ManufacturerMaterials.Mat_Tediore_5_Legendary"
+  ],
+  "GD_Cork_Weap_Lasers.Sight.Sight_PartList": [
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Dahl",
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Hyperion",
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Maliwan",
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None",
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_None_Maliwan",
+    "GD_Cork_Weap_Lasers.Sight.Laser_Sight_Tediore"
+  ],
+  "GD_Cork_Weap_Lasers.Stock.Stock_PartList": [
+    "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Dahl",
+    "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Hyperion",
+    "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Maliwan",
+    "GD_Cork_Weap_Lasers.Stock.Laser_Stock_Tediore"
+  ],
+  "GD_TurretShared.Stock._Stock_PartList": [
+    "GD_TurretShared.Stock.Stock_None"
+  ],
+  "GD_Weap_AssaultRifle.Barrel.Barrel_PartList": [
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Jakobs",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Torgue_Bandit",
+    "GD_Weap_AssaultRifle.Barrel.AR_Barrel_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Body.Body_PartList": [
+    "GD_Weap_AssaultRifle.Body.AR_Body_Bandit",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Dahl",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Jakobs",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Torgue",
+    "GD_Weap_AssaultRifle.Body.AR_Body_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Grip.Grip_PartList": [
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Bandit",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Dahl",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Jakobs",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Torgue",
+    "GD_Weap_AssaultRifle.Grip.AR_Grip_Vladof"
+  ],
+  "GD_Weap_AssaultRifle.Stock.Stock_PartList": [
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Bandit",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Dahl",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Jakobs",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_None",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Torgue",
+    "GD_Weap_AssaultRifle.Stock.AR_Stock_Vladof"
+  ],
+  "GD_Weap_Shotgun.Barrel.Barrel_PartList": [
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Bandit",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Hyperion",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Tediore",
+    "GD_Weap_Shotgun.Barrel.SG_Barrel_Torgue"
+  ],
+  "GD_Weap_Shotgun.Body.Body_PartList": [
+    "GD_Weap_Shotgun.Body.SG_Body_Bandit",
+    "GD_Weap_Shotgun.Body.SG_Body_Hyperion",
+    "GD_Weap_Shotgun.Body.SG_Body_Jakobs",
+    "GD_Weap_Shotgun.Body.SG_Body_Tediore",
+    "GD_Weap_Shotgun.Body.SG_Body_Torgue"
+  ],
+  "GD_Weap_SMG.Barrel.Barrel_PartList": [
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Bandit",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Dahl",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Hyperion",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan",
+    "GD_Weap_SMG.Barrel.SMG_Barrel_Tediore"
+  ],
+  "GD_Weap_SMG.Body.Body_PartList": [
+    "GD_Weap_SMG.Body.SMG_Body_Bandit",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Dahl_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Hyperion_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Maliwan_VarB",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore_VarA",
+    "GD_Weap_SMG.Body.SMG_Body_Tediore_VarB"
+  ],
+  "GD_Weap_SMG.Grip.Grip_PartList": [
+    "GD_Weap_SMG.Grip.SMG_Grip_Bandit",
+    "GD_Weap_SMG.Grip.SMG_Grip_Dahl",
+    "GD_Weap_SMG.Grip.SMG_Grip_Hyperion",
+    "GD_Weap_SMG.Grip.SMG_Grip_Maliwan",
+    "GD_Weap_SMG.Grip.SMG_Grip_Tediore"
+  ],
+  "GD_Weap_SMG.Stock.Stock_PartList": [
+    "GD_Weap_SMG.Stock.SMG_Stock_Bandit",
+    "GD_Weap_SMG.Stock.SMG_Stock_Dahl",
+    "GD_Weap_SMG.Stock.SMG_Stock_Hyperion",
+    "GD_Weap_SMG.Stock.SMG_Stock_Maliwan",
+    "GD_Weap_SMG.Stock.SMG_Stock_Tediore"
+  ],
+  "GD_Weap_SniperRifles.Barrel.Barrel_PartList": [
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Dahl",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Hyperion",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Jakobs",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Maliwan",
+    "GD_Weap_SniperRifles.Barrel.SR_Barrel_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Body.Body_PartList": [
+    "GD_Weap_SniperRifles.Body.SR_Body_Dahl",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_2",
+    "GD_Weap_SniperRifles.Body.SR_Body_Hyperion_3",
+    "GD_Weap_SniperRifles.Body.SR_Body_Jakobs",
+    "GD_Weap_SniperRifles.Body.SR_Body_Maliwan",
+    "GD_Weap_SniperRifles.Body.SR_Body_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Grip.Grip_PartList": [
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Dahl",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Hyperion",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Jakobs",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Maliwan",
+    "GD_Weap_SniperRifles.Grip.SR_Grip_Vladof"
+  ],
+  "GD_Weap_SniperRifles.Stock.Stock_PartList": [
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Dahl",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Hyperion",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Jakobs",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Maliwan",
+    "GD_Weap_SniperRifles.Stock.SR_Stock_Vladof"
+  ]
+}
